@@ -59,3 +59,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+```markdown
+# Task Management API A simple set up
+
+## Requirements
+- PHP 8.1+
+- MySQL 5.7+
+- Composer
+
+## Installation
+1. Clone repository:
+```bash
+git clone https://github.com/yourusername/task-api-laravel.git
