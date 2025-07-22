@@ -72,3 +72,16 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. Clone repository:
 ```bash
 git clone https://github.com/yourusername/task-api-laravel.git
+
+
+## Apis Involved
+
+GET /api/tasks - List all tasks
+
+POST /api/tasks - Create task
+
+PUT /api/tasks/{id} - Update task
+
+DELETE /api/tasks/{id} - Delete task
+
+
